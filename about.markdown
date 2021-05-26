@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, and welcome to my website! My name is Anthony Johansen, and on this page I'll tell you a little about me.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I was born in France but raised in the United States for most of my life. Since a young age I've been interested in all things software and technology which led me to pursue a bachelors degree in Software Engineering at McGill University. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In my free time I like to read, watch sci-fi movies, play videogames, and make cool prints with my 3D printer! 
 
+Favorite Book: Hyperion
 
-[jekyll-organization]: https://github.com/jekyll
+Favorite Movie: Interstellar
+
+Favorite Programming Language: Python
+
+Languages Spoken: French and English
